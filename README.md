@@ -1,5 +1,5 @@
 ### Olá, eu sou Odisley.
-### Seja bem vindo ao meu perfil! 🙂👍
+### Seja bem-vindo(a) ao meu perfil! 🙂👍
 
 ##
 
