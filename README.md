@@ -5,8 +5,8 @@
 
 <img align="right" alt="Odis-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-- 3/8 - Sistemas de Informação ...
-- Instituto Federal de Educação, Ciência e Tecnologia de Sergipe ...
+- 3/8 - Sistemas de Informação
+- Instituto Federal de Educação, Ciência e Tecnologia de Sergipe
 - 👨‍💻.☕.📚
 
 ##
