@@ -3,11 +3,13 @@
 
 ##
 
-<img align="right" alt="Odis-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="Odis-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
 
-- 3/8 - Sistemas de Informação
-- Instituto Federal de Educação, Ciência e Tecnologia de Sergipe
-- 👨‍💻.☕.📚
+Cursando Sistemas de Informação
+
+Instituto Federal de Educação, Ciência e Tecnologia de Sergipe
+
+👨‍💻.☕.📚
 
 ##
 
@@ -27,6 +29,9 @@
 ### Tecnologias:
 
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Odis-java" height="50" width="60" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667">
+  <img align="center" alt="Odis-css" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Odis-html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Odis-html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="Odis-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ 
 </div>
