@@ -29,9 +29,6 @@ Instituto Federal de Educação, Ciência e Tecnologia de Sergipe
 ### Tecnologias:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Odis-css" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Odis-html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Odis-html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Odis-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
  
 </div>
