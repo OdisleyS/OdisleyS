@@ -25,10 +25,10 @@ em entender como a tecnologia funciona, e isso me levou a mergulhar no mundo da 
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
         <br>Java
       </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-        <br>JavaScript
-      </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
         <br>TypeScript
